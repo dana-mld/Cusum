@@ -1,4 +1,4 @@
-# FPGA-Based CUSUM Anomaly Detection
+# Cusum Anomaly Detection
 
 
 The project combines a Python reference model with a VHDL implementation built around **AXI4-Stream** components.
